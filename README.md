@@ -4,6 +4,8 @@
 
 This is a modern, responsive **Admin Dashboard** application built with **React** and **Vite**. It features a comprehensive suite of tools for data visualization, content management, and application analytics. The application is designed with a focus on UI/UX, utilizing **Material UI** for a polished look and **Light/Dark mode** theming.
 
+## 📱 Link to the deployed app
+- (https://dashboard-r3hcu4ko7-ahmed-megaheds-projects-5d539781.vercel.app)
 
 ## ✨ Key Features
 
@@ -19,7 +21,6 @@ This is a modern, responsive **Admin Dashboard** application built with **React*
   - **Routing:** React Router Dom
   - **Charts:** Nivo Charts
   - **Forms:** Formik, Yup
-
 
 ## 📸 Project Structure
 
